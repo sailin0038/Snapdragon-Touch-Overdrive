@@ -2,6 +2,11 @@
 Ultimate KernelSU/Magisk module for POCO F7. Unlocks native 960Hz hardware gyroscope (LSM6DSV) and 300Hz touch sampling rate for competitive gaming.
 # 🚀 Snapdragon Touch Overdrive | Ultimate POCO F7 Touch & Gyro Delay Fix
 
+<p align="center">
+  <img src="IMG_20260613_134701.png" alt="Snapdragon Touch Overdrive Banner" width="100%">
+</p>
+
+
 An elite, kernel-level performance module engineered specifically to completely eradicate touch latency and gyroscope delay on the POCO F7. While the device features a flagship-tier Snapdragon processor, factory-imposed framework limitations and thermal throttling algorithms often bottleneck its true competitive gaming potential. 
 
 This repository provides the definitive **gyro delay fix** and **touch lag solution** for hardcore mobile esports players (BGMI, PUBG Mobile, CODM, Wuthering Waves). By directly injecting custom sensor configurations and overriding system-level window manager protocols, this module forces the hardware to operate at its absolute physical limit, guaranteeing zero-latency crosshair tracking and instantaneous touch registration.
